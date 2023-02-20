@@ -591,6 +591,13 @@ p {
 	top: 300px;
 }
 
+/* Banner Sec Css End Here */
+
+/* Services Sec Css Start Here */
+.services-sec {
+	margin: 60px 0px;
+}
+
 .socila-icon a {
 	margin: 20px;
 }
@@ -611,6 +618,7 @@ p {
 	border-radius: .25rem;
 	box-shadow: 0px 3px 15px 0px #c3c3c3;
 	cursor: pointer;
+	transition: 0.6s;
 }
 
 .services-sec .card-body {
@@ -627,7 +635,7 @@ p {
 .services-sec .card:hover {
 	background-color: #026938;
 	color: #b3d2c3;
-	margin-top: 30px;
+	transform: translateY(30px);
 }
 
 .services-sec .card:hover a {
@@ -636,6 +644,98 @@ p {
 
 .services-sec .card:hover img {
 	filter: brightness(0) invert(1);
+}
+
+/* Services Sec Css End Here */
+
+/* About Sec Css Start Here */
+.about-sec {
+	margin: 100px 0px;
+}
+
+.about-sec h3 {
+	color: #026938;
+}
+
+.about-sec ul {
+	column-count: 2;
+	padding: 0px;
+}
+
+.about-sec ul li {
+	list-style: none;
+	padding: 10px 0px;
+}
+
+.about-sec ul li::before {
+	content: "\f058";
+	display: inline-block;
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 600;
+	color: #026938;
+	line-height: 1;
+	margin: 0 15px 0 0;
+}
+
+/* About Sec Css End Here */
+
+/* download Sec Css Start Here */
+.download-sec {
+	margin: 120px 0px;
+	background: #BC9D00;
+	color: #fff;
+}
+
+.download-mob {
+	margin: -70px 0px;
+}
+
+.download-sec-content {
+	padding: 60px 0px;
+}
+
+/* download Sec Css End Here */
+
+.testimonials-sec {
+	margin: 80px 0px;
+}
+
+.testimonials-sec h3 {
+	color: #026938;
+}
+
+.testimonials-sec p {
+	font-weight: bold;
+	margin: 20px 0px;
+}
+
+.testimonials-bg {
+	background: url(../img/home/testimonial-bg.jpg);
+	background-repeat: no-repeat;
+	text-align: center;
+	padding: 5% 20%;
+}
+
+.testimonialsContent {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 30%;
+	margin: auto;
+}
+
+.testimonialsContent h2 {
+	font-size: 20px;
+	margin: 0px;
+	line-height: normal;
+}
+
+.testimonialsContent p {
+	margin: 0px;
+}
+
+.testimonialsContent .client-img img {
+	border-radius: 50%;
 }
 
 /* Footer Css Start Here */
