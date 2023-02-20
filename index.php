@@ -65,11 +65,10 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body text-center">
-                    <img src="assets/img/home/s-icon1.png" alt="icon">
-                    <h2>Asset registry</h2>
+                        <img src="assets/img/home/s-icon1.png" alt="icon">
+                        <h2>Asset registry</h2>
                         <p>Vitae congue eu consequat ac felis donec. Platea dictumst quisque sagittis purus sit </p>
-                        <a href="javascript:void(0);">Learn More <i
-                            class="fa-solid fa-arrow-right"></i>
+                        <a href="javascript:void(0);">Learn More <i class="fa-solid fa-arrow-right"></i>
                         </a>
                     </div>
                 </div>
@@ -78,11 +77,10 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body text-center">
-                    <img src="assets/img/home/s-icon2.png" alt="icon">
-                    <h2>Asset registry</h2>
+                        <img src="assets/img/home/s-icon2.png" alt="icon">
+                        <h2>Asset registry</h2>
                         <p>Vitae congue eu consequat ac felis donec. Platea dictumst quisque sagittis purus sit </p>
-                        <a href="javascript:void(0);">Learn More <i
-                            class="fa-solid fa-arrow-right"></i>
+                        <a href="javascript:void(0);">Learn More <i class="fa-solid fa-arrow-right"></i>
                         </a>
                     </div>
                 </div>
@@ -91,11 +89,10 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body text-center">
-                    <img src="assets/img/home/s-icon3.png" alt="icon">
-                    <h2>Asset registry</h2>
+                        <img src="assets/img/home/s-icon3.png" alt="icon">
+                        <h2>Asset registry</h2>
                         <p>Vitae congue eu consequat ac felis donec. Platea dictumst quisque sagittis purus sit </p>
-                        <a href="javascript:void(0);">Learn More <i
-                            class="fa-solid fa-arrow-right"></i>
+                        <a href="javascript:void(0);">Learn More <i class="fa-solid fa-arrow-right"></i>
                         </a>
                     </div>
                 </div>
