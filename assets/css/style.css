@@ -814,10 +814,16 @@ footer .footer-content ul {
 	list-style: none;
 }
 
+footer .logo-content .logo-box {
+	max-width: 200px;
+}
+
 footer ul.social-icons {
 	margin: 25px 0 0 0;
 	display: flex;
 	flex-wrap: wrap;
+	max-width: 200px;
+	justify-content: space-between;
 }
 
 footer ul.social-icons li {

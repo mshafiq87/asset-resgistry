@@ -3,7 +3,7 @@
     <div class="container over-hidden">
         <div class="row">
             <div class="col-lg-4 col-md-6">
-                <div class="footer-content">
+                <div class="footer-content logo-content">
                     <div class="logo-box">
                         <a href="index.php">
                             <figure><img src="assets/img/footer/footer-logo.png" alt="footer-logo" class="img-fluid">
