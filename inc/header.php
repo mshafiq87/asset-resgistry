@@ -24,13 +24,13 @@
                         <a class="nav-link" aria-current="page" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript:void(0);">About Us</a>
+                        <a class="nav-link" href="about-us.php">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript:void(0);">Services</a>
+                        <a class="nav-link" href="services.php">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript:void(0);">How We Authenticate</a>
+                        <a class="nav-link" href="how-we-authenticate.php">How We Authenticate</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="javascript:void(0);">How It Work</a>
