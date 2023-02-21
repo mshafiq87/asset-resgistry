@@ -42,7 +42,7 @@
                         <a class="nav-link" href="javascript:void(0);">Sing In</a>
                     </li>
                 </ul>
-                <form class="d-flex">
+                <form class="btn-flex">
                     <button class="btn primary-btn start" type="submit">Start Authentication <i class="fa-solid fa-arrow-right"></i></button>
                     <button class="btn primary-btn" type="submit">Join As Authentication <i class="fa-solid fa-arrow-right"></i></button>
                 </form>

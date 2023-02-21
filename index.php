@@ -18,7 +18,8 @@
 
                     <button class="btn primary-btn" type="submit">Learn More <i
                             class="fa-solid fa-arrow-right"></i></button>
-                    <div class="col-md-12 trusted-Client wow animate__animated animate__fadeInLeftBig" data-wow-delay=".2s">
+                    <div class="col-md-12 trusted-Client wow animate__animated animate__fadeInLeftBig"
+                        data-wow-delay=".2s">
                         <h4>Trusted Clients</h4>
 
                         <div class="slider">
@@ -154,7 +155,7 @@
                         fermentum. Ut fauci.
                     </p>
                     <h4>Available To <b>Download</b></h4>
-                    <div class="mt-3">
+                    <div class="download-btn mt-3">
                         <a href="javascript:void(0);">
                             <img class="img-fluid me-3" src="assets/img/home/google-play.png" alt="download Img">
                         </a>

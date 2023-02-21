@@ -1,0 +1,113 @@
+/* about Css Start Here */
+.about-logo {
+    display: flex;
+    margin: 20px 0px 0px 0px;
+}
+.about .banner-content p{
+	margin-bottom: 20px;
+}
+.about .banner-content h1{
+	font-size: 50px;
+	line-height: normal;
+}
+.about ul {
+	padding-left: 0px;
+}
+.about ul li {
+    list-style: none;
+    padding: 10px 0px;
+    font-size: 14px;
+	font-style: italic;
+}
+.about ul li::before {
+    content: "\f058";
+    display: inline-block;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 600;
+    color: var(--heading-color-2);
+    line-height: 1;
+    margin: 0 15px 0 0;
+	font-style: normal;
+}
+
+.sotry-sec{
+	margin: 60px 0px;
+}
+.hedadingDiv h3{
+	color: var(--heading-color-2);
+}
+.hedadingDiv h2{
+font-size: 50px
+}
+.hedadingDiv p{
+	width: 60%;
+	margin:auto;
+	padding-bottom: 30px;
+}
+
+.founders-sec{
+	margin: 60px 0px;
+}
+.founders-sec h4{
+	font-size: 24px;
+}
+.founders-content{
+	display: flex;
+	margin: 50px 0px;
+}
+/* about Css End Here */
+@media (max-width: 768px) {
+	.banner-content {
+		padding: 120px 0px 30px 0px;
+	}
+	.about-logo {
+		display: block;
+	}
+	.about-logo img {
+		width: 120px;
+	}
+	.sotry-sec {
+		margin: 0px 0px 60px 0px;
+	}
+	.hedadingDiv p {
+		width: 80%;
+	}
+	.hedadingDiv h2 {
+		font-size: 36px;
+	}
+	.clients-sec .hedadingDiv h2 {
+		font-size: 30px;
+	}
+	.founders-sec {
+		margin: 0px 0px 60px 0px;
+	}
+}
+
+@media (max-width: 575px) {
+	.banner-content {
+		padding: 20px 0px 30px 0px;
+	}
+	.about .banner-content h1 {
+		font-size: 36px;
+	}
+	.about-logo {
+		display: block;
+		margin: 20px 0px 0px 0px;
+	}
+	.hedadingDiv h2 {
+		font-size: 36px;
+	}
+	.hedadingDiv p {
+		width: 100%;
+
+	}
+	.founders-sec h4 {
+		margin-top: 20px;
+	}
+	.founders-content {
+		margin: 0px;
+	}
+	.testimonials-sec {
+		margin: 0px 0px 50px 0px;
+	}
+}

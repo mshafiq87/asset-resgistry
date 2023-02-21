@@ -40,11 +40,6 @@
 	src: url("../fonts/Midtown-Groveed/Midtown-Groveed-Regular.ttf");
 }
 
-@font-face {
-	font-family: "Montserrat-reg";
-	src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
-}
-
 /* Font cdn ends here */
 :root {
 	/* Typography starts here */
@@ -55,37 +50,28 @@
 	--font-poppin-regular: "Poppins-regular";
 	--font-poppin-medium: "Poppins-medium";
 	--font-playfairDisplayItalic: "PlayfairDisplay-Italic";
-	--font-montserrat-medium: "Montserrat-medium";
-	--font-montserrat-regular: "Montserrat-regular";
 	--font-light: "Poppins-Light";
-	--font-montserrat-regular: "Montserrat-reg";
 	/* Typography ends here */
 
 	/* Colors starts here */
 	--body-color: #fff;
-	--extra-color-1: #c2e62a;
-	--extra-color-2: #1e0e60;
-	--extra-color-3: #f9f9f9;
-	--extra-color-3: #000;
-	--profile-data-color: #2A263D;
+	--bg-primary: #bc9d00;
+	--bg-secondary: #026938;
+	--extra-color-1: #b3d2c3;
+	--extra-color-2: #000;
 	/* --text-color: #848696; */
-	--text-color: #303030;
-	--heading-color: #fff;
-	--heading-color-2: #040404;
+	--text-color: #333333;
+	--heading-color: #333333;
+	--heading-color-2: #026938;
 	--light-text-color: #fff;
 	--dark-text-color: #000;
-	--checkbox-color: #636060;
-	--checkbox-back: #1E0E60;
-	--profile-back: #FBFBFB;
-	--pagination-color: #6D6D6D;
-	--history-color: #959EAD;
-	--history-border: #DCDCDC;
+	
 	/* Colors ends here */
 
 	/* button colors starts here */
-	--primary-btn-color: #c4dd28;
+	--primary-btn-color: #bc9d00;
 	--primary-btn-text-color: #0a0a0a;
-	--secondary-btn-color: #1e0e60;
+	--secondary-btn-color: #333333;
 	--secondary-btn-text-color: #fff;
 	/* button colors starts here */
 	/* Auth Input Background */
