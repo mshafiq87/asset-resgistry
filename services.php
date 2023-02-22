@@ -10,7 +10,7 @@
         <div class="banner-content">
             <div class="hedadingDiv text-center">
                 <h3>Welcome To Asset Registry</h3>
-                <h2>Our Services</h2>
+                <h1>Our Services</h1>
                 <p>Auctor elit sed vulputate mi sit amet mauris commodo quis. Ullamcorper a lacus vestibulum sed arcu
                     non
                     odio euismod lacinia. Etiam dignissim diam quis enim lobortis scelerisque. Luctus venenatis lectus

@@ -1,0 +1,150 @@
+.marg-sec{
+    margin: 60px 0px;
+}
+.how-it-work .banner-content{
+	padding: 170px 0px 30px 0px;
+}
+.how-it-work-bg{
+	background-image: url(../img/how-it-work/how-it-work-bg.jpg);
+	background-repeat: no-repeat;
+	padding: 50px 0px 130px 0px;
+	color: var(--light-text-color);
+    background-position: center;
+}
+.how-it-work .work-bg {
+    background: var(--light-text-color);
+    padding: 20px;
+    margin-top: -100px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 10px 0px #c3c3c3;
+}
+.how-it-work .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: var(--light-text-color);
+    background-clip: border-box;
+    border: none;
+    border-radius: .25rem;
+    box-shadow: 0px 3px 15px 0px #c3c3c3;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.how-it-work .card-body {
+    flex: 1 1 auto;
+    padding: 2rem;
+}
+.how-it-work .card-body a {
+    color: var(--primary-btn-color);
+    margin: 20px 0px 0px 0px;
+    display: inline-block;
+}
+.how-it-work .card:hover {
+    background-color: var(--bg-primary);
+    color: var(--light-text-color);
+}
+.how-it-work .card:hover img {
+    filter: brightness(0) invert(1);
+}
+.how-it-work .card:hover a {
+    color: var(--light-text-color);
+}
+.progress-div{
+margin: 60px 0px;
+}
+.progress-div h3{
+	color: var(--heading-color-2);
+}
+.progress-div-text{
+	margin-top: 100px;
+}
+.progress-outer {
+    background: #F8F8F8;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+}
+.progress {
+    height: 27px;
+    margin: 0;
+    overflow: visible;
+    background: none;
+	position: relative;
+}
+.progress .progress-bar{
+    border-radius: 5px;
+}
+.progress .progress-value {
+    position: absolute;
+    left: 30px;
+    right: unset;
+    top: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+}
+.progress-bar.active{
+    animation: reverse progress-bar-stripes 0.40s linear infinite, animate-positive 2s;
+}
+@-webkit-keyframes animate-positive{
+    0% { width: 0%; }
+}
+@keyframes animate-positive {
+    0% { width: 0%; }
+}
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: var(--heading-color-2);
+    transition: width .6s ease;
+}
+
+@media (max-width: 1024px) {
+    .how-it-work .banner-content{
+        padding: 120px 0px 30px 0px;
+    }
+}
+
+@media (max-width: 768px) {
+    .how-it-work .banner-content{
+        padding: 120px 0px 30px 0px;
+    }
+}
+    
+@media (max-width: 575px) {
+	.how-it-work .banner-content {
+		padding: 20px 0px 30px 0px;
+	}
+
+    .how-it-work-bg {
+        padding: 50px 0px;
+    }
+    .how-it-work .work-bg {
+        background: none;
+        padding: 20px;
+        margin-top: 0px;
+        box-shadow: none;
+    }
+    .how-it-work .card {
+        margin-bottom: 30px;
+    }
+    .progress-div {
+        margin: 0px;
+    }
+    .progress .progress-value {
+        font-size: 11px;
+    }
+    .progress-div-text {
+        margin-top: 20px;
+    }
+    .marg-sec {
+        margin: 30px 0px;
+    }
+}

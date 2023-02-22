@@ -33,7 +33,7 @@
                         <a class="nav-link" href="how-we-authenticate.php">How We Authenticate</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript:void(0);">How It Work</a>
+                        <a class="nav-link" href="how-it-work.php">How It Work</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="javascript:void(0);">Contact Us</a>

@@ -34,4 +34,6 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="stylesheet" href="assets/css/about.css">
 <link rel="stylesheet" href="assets/css/services.css">
+<link rel="stylesheet" href="assets/css/authenticate.css">
+<link rel="stylesheet" href="assets/css/how-it-work.css">
 <!-- Css Stylesheet -->
