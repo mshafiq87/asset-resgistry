@@ -39,10 +39,10 @@
                         <a class="nav-link" href="how-we-authenticate.php">How We Authenticate</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="how-it-work.php">How It Works</a>
+                        <a class="nav-link" href="javascript:void(0);">How It Works</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact-us.php">Contact Us</a>
+                        <a class="nav-link" href="javascript:void(0);">Contact Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="javascript:void(0);">Sign In</a>
