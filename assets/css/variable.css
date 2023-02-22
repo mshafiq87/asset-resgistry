@@ -29,6 +29,10 @@
 	font-family: "PlayfairDisplay-Regular";
 	src: url("../fonts/Playfair-Display/PlayfairDisplay-Regular.ttf");
 }
+@font-face {
+	font-family: "PlayfairDisplay-MediumItalic";
+	src: url("../fonts/Playfair-Display/PlayfairDisplay-MediumItalic.ttf");
+}
 
 @font-face {
 	font-family: "PlayfairDisplay-Italic";
@@ -49,7 +53,7 @@
 	--font-poppin-bold: "Poppins-bold";
 	--font-poppin-regular: "Poppins-regular";
 	--font-poppin-medium: "Poppins-medium";
-	--font-playfairDisplayItalic: "PlayfairDisplay-Italic";
+	--font-playfairDisplayItalic: "PlayfairDisplay-MediumItalic";
 	--font-light: "Poppins-Light";
 	/* Typography ends here */
 

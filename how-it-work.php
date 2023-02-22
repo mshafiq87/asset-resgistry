@@ -2,6 +2,10 @@
 <?php include 'inc/app.php'; ?>
 <!-- App Include Here -->
 
+<!-- Style Here -->
+<link rel="stylesheet" href="assets/css/how-it-work.css">
+<!-- End Here -->
+
 <!-- how it works sec Start Here -->
 <section class="how-it-work">
     <div class="container">

@@ -2,6 +2,10 @@
 <?php include 'inc/app.php'; ?>
 <!-- App Include Here -->
 
+<!-- Style Here -->
+<link rel="stylesheet" href="assets/css/authenticate.css">
+<!-- End Here -->
+
 <!-- Body Content Start Here -->
 
 <!-- authenticate sec Start Here -->

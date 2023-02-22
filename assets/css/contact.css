@@ -1,0 +1,41 @@
+.contact-div{
+	background: #F7F7F7;
+	border-radius: 5px;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	height: 100%;
+}
+.contact-icon {
+    background: var(--heading-color-2);
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 5%;
+    text-align: center;
+    font-size: 20px;
+    color: var(--light-text-color);
+}
+.contact-text h4{
+	font-family: var(--font-poppin-bold);
+	font-size: 20px;
+	margin: 0px;
+}
+.contact-text a{
+display: block;
+}
+.contact-content{
+	width: 70%;
+	margin: 0px auto;
+}
+.contact-div .contact-text {
+    width: calc(100% - 50px);
+}
+.form-control {
+    padding: .75rem .75rem;
+    font-size: 14px;
+}
+.contact-map{
+	margin:60px 0px -10px 0px;
+}

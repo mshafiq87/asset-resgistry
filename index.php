@@ -154,7 +154,7 @@
                         magna. Tempus iacmst quisque sagittis purus sit amet. Adipiscing tristique risus nec feugiat in
                         fermentum. Ut fauci.
                     </p>
-                    <h4>Available To <b>Download</b></h4>
+                    <h4>Available To <spen>Download</spen></h4>
                     <div class="download-btn mt-3">
                         <a href="javascript:void(0);">
                             <img class="img-fluid me-3" src="assets/img/home/google-play.png" alt="download Img">
@@ -178,7 +178,7 @@
 <!-- Testimonials sec Start Here -->
 <section class="testimonials-sec">
     <div class="container">
-
+    <div class="inner-bor">
         <div class="col-md-12 testimonials-bg">
 
             <h3>Testimonials</h3>
@@ -253,7 +253,7 @@
 
 
         </div>
-
+    </div>
     </div>
 </section>
 <!-- Testimonials sec End Here -->
