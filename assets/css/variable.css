@@ -43,6 +43,10 @@
 	font-family: "Midtown-Groveed-Regular";
 	src: url("../fonts/Midtown-Groveed/Midtown-Groveed-Regular.ttf");
 }
+@font-face {
+	font-family: "Fractul-Bold";
+	src: url("../fonts/Fractul-Bold.ttf");
+}
 
 /* Font cdn ends here */
 :root {
@@ -55,6 +59,8 @@
 	--font-poppin-medium: "Poppins-medium";
 	--font-playfairDisplayItalic: "PlayfairDisplay-MediumItalic";
 	--font-light: "Poppins-Light";
+	--font-playfairItalic: "PlayfairDisplay-Italic";
+	--font-f-b: "Fractul-Bold";
 	/* Typography ends here */
 
 	/* Colors starts here */

@@ -115,7 +115,7 @@
             <div class="col-md-6 wow animate__animated animate__fadeInRightBig">
                 <div class="ps-lg-5">
                     <h3>Welcome To Asset Registry</h3>
-                    <h2>ABOUT ASSETS AUTHENTICATOR</h2>
+                    <h2 class="large-heading">ABOUT ASSETS AUTHENTICATOR</h2>
                     <p>
                         Vitae congue eu consequat ac felis donec. Platea dictumst quisque sagittis purus sit amet.
                         Adipiscing tristique risus nec feugiat in fermentum. Ut fauci.Ut eu sem integer vitae justo eget
@@ -147,7 +147,7 @@
             <div class="col-md-6 wow animate__animated animate__fadeInLeftBig" data-wow-delay=".2s">
                 <div class="download-sec-content">
                     <h3>Welcome To Asset Registry</h3>
-                    <h2>GET YOUR ASSETS REGISTERED</h2>
+                    <h2 class="large-heading">GET YOUR ASSETS REGISTERED</h2>
                     <p>
                         Vitae congue eu consequat ac felis donec. Platea dictumst quisque sagittis purus sit amet.
                         Adipiscing tristique risus nec feugiat in fermentum. Ut fauci.Ut eu sem integer vitae justo eget
@@ -182,7 +182,7 @@
         <div class="col-md-12 testimonials-bg">
 
             <h3>Testimonials</h3>
-            <h2>WORDS FROM CLIENTS</h2>
+            <h2 class="large-heading">WORDS FROM CLIENTS</h2>
             <div class="testimonials-items">
                 <div class="slide">
                     <p>

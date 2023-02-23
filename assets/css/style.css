@@ -19,7 +19,7 @@ a:hover {
 }
 
 button {
-	font-family: var(--font-btn);
+	font-family: var(--font-default);
 }
 
 figure {
@@ -60,9 +60,11 @@ h2 {
 	font-size: 30px;
 	text-transform: uppercase;
 }
-
+h2.large-heading {
+	font-size: 41px;
+}
 h3 {
-	font-family: var(--font-playfairDisplayItalic);
+	font-family: var(--font-playfairItalic);
 	font-size: 20px;
 	line-height: 26px;
 	margin: 0px;
@@ -604,7 +606,7 @@ p {
 	font-size: 18px;
 }
 .download-sec-content h4 spen {
-    font-family: var(--font-poppin-bold);
+    font-family: var(--font-f-b);
 }
 
 @media (max-width: 1366px) {
@@ -674,7 +676,7 @@ p {
 	background-repeat: no-repeat;
 	text-align: center;
 	padding: 5% 20%;
-	border: 1px solid #BC9D00;
+	border: 1px solid #bc9d009e;
 }
 .inner-bor{
 	border: 2px solid #BC9D00;
