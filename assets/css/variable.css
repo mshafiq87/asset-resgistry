@@ -47,7 +47,10 @@
 	font-family: "Fractul-Bold";
 	src: url("../fonts/Fractul-Bold.ttf");
 }
-
+@font-face {
+	font-family: "Fractul-Regular";
+	src: url("../fonts/Fractul-Regular.ttf");
+}
 /* Font cdn ends here */
 :root {
 	/* Typography starts here */
@@ -61,6 +64,7 @@
 	--font-light: "Poppins-Light";
 	--font-playfairItalic: "PlayfairDisplay-Italic";
 	--font-f-b: "Fractul-Bold";
+	--font-fractual-r: "Fractul-Regular";
 	/* Typography ends here */
 
 	/* Colors starts here */

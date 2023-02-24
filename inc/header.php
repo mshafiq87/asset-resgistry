@@ -51,7 +51,7 @@
                 <form class="btn-flex">
                     <button class="btn primary-btn start" type="submit">Start Authentication <i
                             class="fa-solid fa-arrow-right"></i></button>
-                    <button class="btn primary-btn" type="submit">Join As Authentication <i
+                    <button class="btn primary-btn" type="submit">Join As Authenticator<i
                             class="fa-solid fa-arrow-right"></i></button>
                 </form>
             </div>
