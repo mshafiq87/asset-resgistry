@@ -1,0 +1,8 @@
+section.blog-details {
+    padding-bottom: 62px;
+}
+
+section.blog-details figure.detail-img img {
+    height: 478px;
+    object-fit: cover;
+}

@@ -46,7 +46,11 @@ figure {
 button {
 	border: 0;
 }
-
+.form-control {
+    padding: .75rem .75rem;
+    font-size: 14px;
+    min-height: 49px;
+}
 /* Typography Start Here */
 h1 {
 	font-family: var(--font-heading);
@@ -331,12 +335,13 @@ p {
 
 }
 .hedadingDiv h1 {
-    font-size: 50px;
+    font-size: 45px;
 }
 .hedadingDiv h3 {
     color: var(--heading-color-2);
     line-height: normal;
     margin-bottom: 0px;
+	font-size: 18px;
 }
 .hedadingDiv h2 {
     font-size: 50px;
@@ -345,6 +350,7 @@ p {
     width: 60%;
     margin: auto;
     padding-bottom: 30px;
+	font-size: 13px;
 }
 .banner-content {
 	padding: 170px 0px 30px 0px;
